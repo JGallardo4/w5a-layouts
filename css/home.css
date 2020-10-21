@@ -2,17 +2,6 @@
 
 /* Layout */
 
-body {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: auto 1fr auto;
-}
-
-main {
-    display: grid;
-    place-items: center;
-}
-
-#title {
-    padding: 0.5%;
+#page-title {
+    text-decoration: none;
 }

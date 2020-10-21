@@ -2,19 +2,6 @@
 
 /* Layout */
 
-body {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: auto 1fr auto;
-}
-
-main {
-    display: grid;
-    grid-template-columns: 3fr 1fr;
-    grid-template-rows: 1fr;
-    gap: 10px;
-}
-
 
 /* Other Style */
 
