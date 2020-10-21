@@ -2,8 +2,20 @@
 
 /* Layout */
 
+main {
+    white-space: nowrap;
+}
 
-/* Other Style */
+#main-content {
+    display: inline-block;
+    width: 80%;
+    white-space: normal;
+    vertical-align: text-top;
+}
 
-
-/* Fonts */
+nav {
+    display: inline-block;
+    width: 20%;
+    white-space: normal;
+    vertical-align: text-top;
+}

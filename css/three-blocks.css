@@ -1,3 +1,23 @@
 @import "base.css";
 
 /* Layout */
+
+main {
+    white-space: nowrap;
+}
+
+article {
+    white-space: normal;
+    vertical-align: text-top;
+    width: 100%;
+}
+
+#article1 {
+    display: block;
+}
+
+#article2,
+#article3 {
+    display: inline-block;
+    width: 50%;
+}
